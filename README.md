@@ -2,6 +2,11 @@
 
 ## Instructions to Train and Test the Model:
 
+```shell
+mkdir prepare_data/Data
+mkdir prepare_data/Combined_Data
+```
+
 * Training:
 
 ```shell
