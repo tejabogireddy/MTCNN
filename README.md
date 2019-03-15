@@ -1,6 +1,6 @@
 # MTCNN
 
-## Instruction to Train and Test the model:
+## Instructions to Train and Test the Model:
 
 * Training:
 
